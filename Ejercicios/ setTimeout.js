@@ -1,4 +1,4 @@
-// esto es una web API. para llamar tiempos. 
+// esto es una web API, una funcion que esta disponible, que nos permite correr una funcion despues de en un tiempo determinado... 
 
 // funciona para mandar codigo a un cierto tiempo determinado por ejemplo 0. (es en milisegundos osea 3,000 es 3 segundos.)
 setTimeout(() => {
